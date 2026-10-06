@@ -1,4 +1,5 @@
 name: Architecture
+run-name: Architecture gate (${{ github.event_name }})
 
 on:
   push:
